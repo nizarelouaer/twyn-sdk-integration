@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Twyn SDK Example</string>
+    <string name="verify">VERIFY</string>
+    <string name="enroll">ENROLL</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="email">Email</string>
+    <string name="name">Full Name</string>
+    <string name="nickname">Nick Name</string>
+    <string name="gender">Gender</string>
+    <string name="Phone">Mobile No.</string>
+    <string name="reg_no">CPF</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_smart_dialog">alert example</string>
+    <string name="txt_alert">alert</string>
+</resources>

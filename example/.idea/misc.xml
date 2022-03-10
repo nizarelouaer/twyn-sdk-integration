@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nizar/.gradle/caches/transforms-3/b019ec9ada75383011e531c81390782b/transformed/jetified-lottiealertdialoglibrary-debug/res/layout/view_alert_dialog.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/nizar/.gradle/caches/transforms-3/c0751984cb1793adee4b61ff92ebc651/transformed/jetified-LottieAlertDialog-1.1/res/layout/view_alert_dialog.xml" value="0.11041666666666666" />
+        <entry key="..\:/Work/T4ISB/Projects/Twyn/Android/Lizhen/twyn-sdk_20220209/SDKTest/app/src/main/res/drawable/centre_background.xml" value="0.1215" />
+        <entry key="..\:/Work/T4ISB/Projects/Twyn/Android/Lizhen/twyn-sdk_20220209/SDKTest/app/src/main/res/drawable/centre_button.xml" value="0.1215" />
+        <entry key="..\:/Work/T4ISB/Projects/Twyn/Android/Lizhen/twyn-sdk_20220209/SDKTest/app/src/main/res/layout/activity_main.xml" value="0.11041666666666666" />
+        <entry key="..\:/Work/T4ISB/Projects/Twyn/Android/Lizhen/twyn-sdk_20220209/SDKTest/app/src/main/res/layout/content_main.xml" value="0.11041666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
